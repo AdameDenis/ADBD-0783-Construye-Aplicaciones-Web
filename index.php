@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Adame Durán Brenda Denis 0783 -->
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -25,15 +24,16 @@
     <div class="contenedor">
         <h2>Bienvenido a PANDORA</h2>
         <p>
-            Descubre la elegancia y distinción que nos caracteriza. Te ofrecemos colecciones exclusivas confeccionadas con materiales de la más alta calidad, como plata esterlina, baños de oro y joyas elaboradas a mano.
+            Descubre la elegancia y distinción que nos caracteriza. En nuestra tienda oficial te ofrecemos colecciones exclusivas confeccionadas con materiales de la más alta calidad, como plata esterlina, baños de oro y piezas acabadas a mano.
         </p>
         <p>
-            Explora las secciones de nuestro catálogo en el menú superior para encontrar el accesorio ideal.
+            Explora las diferentes categorías en la barra de navegación para conocer nuestros productos exclusivos.
         </p>
     </div>
 
+    <!-- Footer obligatorio con los datos del alumno -->
     <footer>
-        <p>© Adame Durán Brenda Denis 0783 | Programación 5J</p>
+        <p><strong>Alumno:</strong> Adame Durán Brenda Denis | <strong>Matrícula:</strong> 0783 | <strong>Grupo:</strong> Programación 5J</p>
     </footer>
 
 </body>
