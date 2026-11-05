@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Adame Durán Brenda Denis 0783 -->
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -23,73 +22,75 @@
     </header>
 
     <div class="contenedor">
-        <h2>Colección de Collares</h2>
+        <h2>Categoría: Collares</h2>
+        
+        <!-- Grid con los 10 productos mínimos -->
         <div class="productos-grid">
             <div class="producto-tarjeta">
                 <img src="collar1.jpg" alt="Collar 1">
                 <h3>Collar Plata Esterlina</h3>
                 <p class="precio">$2,380.00 MXN</p>
-                <button class="btn-comprar" onclick="alert('Agregado al carrito')">Comprar</button>
+                <button class="btn-comprar">Comprar</button>
             </div>
             <div class="producto-tarjeta">
                 <img src="collar2.jpg" alt="Collar 2">
                 <h3>Collar Corazón Radiante</h3>
                 <p class="precio">$2,100.00 MXN</p>
-                <button class="btn-comprar" onclick="alert('Agregado al carrito')">Comprar</button>
+                <button class="btn-comprar">Comprar</button>
             </div>
             <div class="producto-tarjeta">
                 <img src="collar3.jpg" alt="Collar 3">
                 <h3>Collar Círculo Eterno</h3>
                 <p class="precio">$1,850.00 MXN</p>
-                <button class="btn-comprar" onclick="alert('Agregado al carrito')">Comprar</button>
+                <button class="btn-comprar">Comprar</button>
             </div>
             <div class="producto-tarjeta">
                 <img src="collar4.jpg" alt="Collar 4">
                 <h3>Collar Perla Elegante</h3>
                 <p class="precio">$2,950.00 MXN</p>
-                <button class="btn-comprar" onclick="alert('Agregado al carrito')">Comprar</button>
+                <button class="btn-comprar">Comprar</button>
             </div>
             <div class="producto-tarjeta">
                 <img src="collar5.jpg" alt="Collar 5">
                 <h3>Collar Árbol de la Vida</h3>
                 <p class="precio">$2,400.00 MXN</p>
-                <button class="btn-comprar" onclick="alert('Agregado al carrito')">Comprar</button>
+                <button class="btn-comprar">Comprar</button>
             </div>
             <div class="producto-tarjeta">
                 <img src="collar6.jpg" alt="Collar 6">
                 <h3>Collar Gotas de Brillo</h3>
                 <p class="precio">$3,100.00 MXN</p>
-                <button class="btn-comprar" onclick="alert('Agregado al carrito')">Comprar</button>
+                <button class="btn-comprar">Comprar</button>
             </div>
             <div class="producto-tarjeta">
                 <img src="collar7.jpg" alt="Collar 7">
                 <h3>Collar Infinito Oro</h3>
                 <p class="precio">$2,750.00 MXN</p>
-                <button class="btn-comprar" onclick="alert('Agregado al carrito')">Comprar</button>
+                <button class="btn-comprar">Comprar</button>
             </div>
             <div class="producto-tarjeta">
                 <img src="collar8.jpg" alt="Collar 8">
                 <h3>Collar Llave Real</h3>
                 <p class="precio">$1,990.00 MXN</p>
-                <button class="btn-comprar" onclick="alert('Agregado al carrito')">Comprar</button>
+                <button class="btn-comprar">Comprar</button>
             </div>
             <div class="producto-tarjeta">
                 <img src="collar9.jpg" alt="Collar 9">
-                <h3>Collar Estrella del Norte</h3>
+                <h3>Collar Estrella Norte</h3>
                 <p class="precio">$2,250.00 MXN</p>
-                <button class="btn-comprar" onclick="alert('Agregado al carrito')">Comprar</button>
+                <button class="btn-comprar">Comprar</button>
             </div>
             <div class="producto-tarjeta">
                 <img src="collar10.jpg" alt="Collar 10">
                 <h3>Collar Mariposa Cristal</h3>
                 <p class="precio">$2,600.00 MXN</p>
-                <button class="btn-comprar" onclick="alert('Agregado al carrito')">Comprar</button>
+                <button class="btn-comprar">Comprar</button>
             </div>
         </div>
     </div>
 
     <footer>
-        <p>© Adame Durán Brenda Denis 0783 | Programación 5J</p>
+        <p><strong>Alumno:</strong> Adame Durán Brenda Denis | <strong>Matrícula:</strong> 0783 | <strong>Grupo:</strong> Programación 5J</p>
     </footer>
 
 </body>
